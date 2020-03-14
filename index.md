@@ -9,7 +9,9 @@ Cours de Deep reinforcement learning, Université Lyon 1, M2 IA
 
 
 Vidéos 2019-2020:
-(ressources/videos/Cabanis_video.mp4")
+![](ressources/videos/Cabanis_video.mp4)
+
+<video controls src="ressources/videos/Cabanis_video.mp4"></video>
 
 
 
