@@ -10,12 +10,8 @@ Cours de Deep reinforcement learning, Université Lyon 1, M2 IA
 
 
 Vidéos 2019-2020:
-![https://github.com/VCanete/DRL-Atari/tree/releasev1](ressources/videos/lowervideo_canete.mp4)
-![https://github.com/JBGUIMBAUD/deep-reenforcement-learning](ressources/videos/guimbaud_openaigym.mp4)
-![https://github.com/ThomasRanvier/deep_rl_project](ressources/videos/ranvier_desilets_video.mp4)
-![https://github.com/PierreCabanis/Deep-RL.git](ressources/videos/Cabanis_video.mp4)
 
-
-
-
-
+<video controls src="ressources/videos/lowervideo_canete.mp4">https://github.com/VCanete/DRL-Atari/tree/releasev1</video>
+<video controls src="ressources/videos/guimbaud_openaigym.mp4">https://github.com/JBGUIMBAUD/deep-reenforcement-learning</video>
+<video controls src="ressources/videos/ranvier_desilets_video.mp4">https://github.com/ThomasRanvier/deep_rl_project</video>
+<video controls src="ressources/videos/Cabanis_video.mp4">https://github.com/PierreCabanis/Deep-RL</video>
