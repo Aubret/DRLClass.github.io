@@ -2,7 +2,7 @@
 Cours
 ======
 
-<a href="ressources/M2IA_course_2019_2020.pdf">Slides du CM</a>
+<a href="ressources/EUPI_course_2021_2022.pdf">Slides du CM</a>
 
 <a href="ressources/TP_DRL_2019_2020.pdf">Projet DRL</a>
 
